@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<!--
-**AshiyaKhanum/AshiyaKhanum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-echo "# AshiyaKhanum" >> README.md
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on ReactJS<br>🤝 I’m looking for help with the Backend <br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Web Development<br>⚡ Fun fact : I'm Lazy but Smart
 
